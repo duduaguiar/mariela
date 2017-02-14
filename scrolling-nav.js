@@ -17,5 +17,3 @@ $(function() {
         event.preventDefault();
     });
 });
-scrolling-nav.js
-Abrir com
